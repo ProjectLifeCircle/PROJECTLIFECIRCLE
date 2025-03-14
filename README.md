@@ -1,5 +1,5 @@
-## Hi there 👋
-
+## PROJECT LIFE CIRCLE IN PROGRESS👋
+There are images yet to be uploaded in the codebase and the site is yet to be hosted fully
 <!--
 **ProjectLifeCircle/PROJECTLIFECIRCLE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
